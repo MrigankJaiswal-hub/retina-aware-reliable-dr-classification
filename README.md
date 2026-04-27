@@ -111,7 +111,7 @@ At ECS Threshold = 0.5
 
 ## 🔥 Grad-CAM Heatmaps
 
-> Add your screenshots inside `/assets/`
+
 
 <p align="center">
 <img src="assets/gradcam1.png" width="45%">
@@ -211,7 +211,7 @@ B.Tech ECE, Central University of Jammu
 
 ### Co Authors
 
-Pranav
+Pranav,
 Nanevarth Prakash
 
 ## Mentor
@@ -234,16 +234,18 @@ BibTeX References
 Final PDF
 
 ## 🌟 Future Scope
-Vision Transformer + CNN Hybrid
-Multi-Dataset Validation
-Real Hospital Deployment
-Federated Medical Learning
-Explainable Telemedicine AI
+Vision Transformer + CNN Hybrid,
+Multi-Dataset Validation,
+Real Hospital Deployment,
+Federated Medical Learning,
+Explainable Telemedicine AI,
+
 
 
 ⭐ If You Like This Work
 
 Please star this repository ⭐
+
 
 📬 Contact
 
