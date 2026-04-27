@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# Large datasets
+data/raw/train_images/
+data/raw/test_images/
+
+# Outputs
+outputs/
+
+# Streamlit cache
+.streamlit/
+
+# IDE
+.vscode/
+.idea/

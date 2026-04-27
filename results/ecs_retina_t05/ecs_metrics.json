@@ -1,0 +1,20 @@
+{
+  "ecs_threshold": 0.5,
+  "temperature": 1.415692687034607,
+  "ecs_selective_metrics": {
+    "coverage": 0.8181818127632141,
+    "selective_accuracy": 0.8600000143051147,
+    "num_selected": 450,
+    "num_total": 550
+  },
+  "confidence_selective_metrics": {
+    "coverage": 0.8618181943893433,
+    "selective_accuracy": 0.8270041942596436,
+    "num_selected": 474,
+    "num_total": 550
+  },
+  "ecs_score_mean": 0.700728178024292,
+  "ecs_score_std": 0.18036194145679474,
+  "ecs_score_min": 0.11454576253890991,
+  "ecs_score_max": 0.9512361288070679
+}

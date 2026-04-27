@@ -1,0 +1,6 @@
+ensemble_models:
+  - outputs/aptos_exp1/best_model.pt
+  - outputs/aptos_seed123/best_model.pt
+  - outputs/aptos_seed777/best_model.pt
+
+method: average_softmax

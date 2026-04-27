@@ -1,0 +1,4 @@
+model_name: efficientnet_b0
+pretrained: true
+dropout: 0.2
+feature_dim: 1280

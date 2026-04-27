@@ -1,0 +1,22 @@
+{
+  "ecs_threshold": 0.5,
+  "ecs_alpha": 0.5,
+  "ecs_beta": 0.3,
+  "ecs_gamma": 0.2,
+  "ecs_selective_metrics": {
+    "coverage": 0.6672727465629578,
+    "selective_accuracy": 0.8964577913284302,
+    "num_selected": 367,
+    "num_total": 550
+  },
+  "confidence_selective_metrics": {
+    "coverage": 0.8618181943893433,
+    "selective_accuracy": 0.8270041942596436,
+    "num_selected": 474,
+    "num_total": 550
+  },
+  "ecs_score_mean": 0.6142016053199768,
+  "ecs_score_std": 0.21552108228206635,
+  "ecs_score_min": 0.10178316384553909,
+  "ecs_score_max": 0.9401226043701172
+}

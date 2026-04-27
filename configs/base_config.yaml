@@ -1,0 +1,10 @@
+project_name: Reliable DR Classification
+num_classes: 5
+img_size: 224
+batch_size: 8
+epochs: 10
+lr: 0.0001
+weight_decay: 0.0001
+num_workers: 0
+seed: 42
+device: cpu
